@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Roninkai: Sjællands Familie Kendo Klub
 
 You can use the [editor on GitHub](https://github.com/Onthemazewall/Roninkai/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
